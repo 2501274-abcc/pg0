@@ -21,6 +21,7 @@ body{
 #home a:hover{
     background-color: white;
 }
+
 .name{
     color:rgb(14, 14, 14);
 }
@@ -50,4 +51,14 @@ body{
 }
 #one{
     background-color: rgb(245, 245, 124);
+}
+#star{
+    background-color: rgb(5, 5, 67);
+    color: white;
+    border: solid 1px white;
+}
+#avenjer{
+    background-color: rgb(5, 5, 67);
+    color: white;
+    border: solid 1px white;
 }
